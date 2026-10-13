@@ -1,0 +1,5 @@
+raw rows: 74,571 + 19,893 + 24,151 = 118,615
+Mar-Jul 2021 even-multiplicity block: 19,796 rows -> 9,898 (each exact-row group halved)
+Sub Sale rows (2024-25 only): 2,221; remaining exact duplicates flagged: 4,077
+months with no data: ['2021-08', '2021-09', '2021-10']
+clean rows: 108,717  ->  properties_2020_2025_clean.csv
